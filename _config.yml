@@ -23,8 +23,8 @@ email: jonalee99@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I'm a Senior Software Engineer at Google specializing in high-throughput,
   low-latency, distributed cloud systems.
-baseurl: "/personal-website"
-url: "https://jonalee99.github.io/"
+baseurl: ""
+url: "https://jonslee.com/"
 linkedin_username: jonathan-lee-268151134
 
 # Build settings
