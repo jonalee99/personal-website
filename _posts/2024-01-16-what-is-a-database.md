@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is a database?"
-date:   2025-01-12 10:59:45 -0500
+date:   2025-01-16 10:59:45 -0500
 categories: cloud 
 ---
 Way back when, the internet did not exist, files were stored in cabinets. To find a document, you would open the drawer and see the carefully handwritten labels peeking back up at you. Good thing they're alphabetically ordered - it makes the search much faster.
